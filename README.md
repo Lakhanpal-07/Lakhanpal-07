@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...map planning
 - 🌱 I’m currently learning ...QGSI
 - 💞️ I’m looking to collaborate on ...Map map making
-- 📫 How to reach me ...ping me on Telegram
+- 📫 How to reach me ...ping me on www.linkedin.com/in/nakesh-kumar-lakhanpal
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
