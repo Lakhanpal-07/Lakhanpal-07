@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Lakhanpal-07
-- 👀 I’m interested in ...map planning
-- 🌱 I’m currently learning ...QGSI
-- 💞️ I’m looking to collaborate on ...Map map making
-- 📫 How to reach me ...ping me on Telegram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m (@Lakhanpal-07)  
+🔧 DevOps & DevSecOps Engineer | Cloud & CI/CD Specialist  
+🌐 Working with GitHub, Azure DevOps, NGINX, and Terraform  
+🏗️ Building secure Azure Landing Zones with automated pipelines  
+🛡️ Integrating SAST & DAST into CI/CD for proactive security  
+🚀 Passionate about continuous integration, deployment, and resilient systems  
+💬 Let’s collaborate on cloud automation, secure delivery, and performance engineering  
 
-<!---
-Lakhanpal-07/Lakhanpal-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
