@@ -1,4 +1,4 @@
-👋 Hi, I’m (@Lakhanpal-07)  
+👋 Hi, I’m (@Lakhanpal-07)... 
 🔧 Cloud & DevOps Engineer | DevSecOps Practitioner | GitOps Advocate  
 
 🌐 **Current Focus Areas**  
