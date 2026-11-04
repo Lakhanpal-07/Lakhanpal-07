@@ -1,5 +1,5 @@
 👋 Hi, I’m (@Lakhanpal-07)... 
-🔧 Cloud & DevOps Engineer | DevSecOps | GitOps Advocate | Azure DO ...  
+🔧 Cloud & DevOps Engineer | DevSecOps | GitOps Advocate | Azure DO ...  ..
 
 🌐 **Current Focus Areas**  
 - Building secure **Azure Landing Zones** with Infrastructure as Code (Terraform declartive-automation )  
