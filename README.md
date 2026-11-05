@@ -8,7 +8,7 @@
 - Optimizing **NGINX servers** for high‑availability and secure reverse proxy setups  
 - Embedding **SAST/DAST** security scans into pipelines with tools like SonarQube, OWASP ZAP, and Checkmarx  
 - Leveraging **container security** with Trivy, Aqua Security, and Falco runtime monitoring  
-- Automating compliance checks with **OPA (Open Policy Agent)** and **Kyverno**  
+- Automating compliance checks with **OPA (Open Policy Agent)** and **Kyverno**  .
 - Integrating **secret management** via HashiCorp Vault and Azure Key Vault  
 - Observability with **Prometheus, Grafana, Loki, and ELK stack**  
 
