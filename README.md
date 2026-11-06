@@ -21,7 +21,7 @@
 💬 **Let’s Collaborate On**  
 - Secure CI/CD pipelines with integrated DevSecOps tooling  
 - GitOps‑driven cloud automation  
-- Scalable microservices with Kubernetes and service mesh (Istio/Linkerd)  
+- Scalable microservices with Kubernetes and service mesh (Istio/Linkerd).  
 - Cloud security posture management (CSPM) and compliance automation  
 
 📫 Reach me on Telegram for collaborations.  
