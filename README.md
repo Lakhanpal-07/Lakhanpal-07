@@ -10,7 +10,7 @@
 - Leveraging **container security** with Trivy, Aqua Security, and Falco runtime monitoring  
 - Automating compliance checks with **OPA ..(Open Policy Agent)** and **Kyverno**  .
 - Integrating **secret management** via HashiCorp Vault and Azure Key Vault  
-- Observability with **Prometheus, Grafana, Loki, and ELK stack**  
+- Observability with **Prometheus, Grafana, Loki, and ELK stack***
 
 💡 **What I’m Exploring Next**  
 - Advanced **DevSecOps automation** with policy‑as‑code and security gates  
