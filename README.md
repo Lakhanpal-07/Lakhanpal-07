@@ -12,7 +12,7 @@
 - Integrating **secret management** via HashiCorp Vault and Azure Key Vault  
 - Observability with **Prometheus, Grafana, Loki, and ELK stack***
 
-💡 **What I’m Exploring Next**  
+💡 **What I’m Exploring Next**  ,,,
 - Advanced **DevSecOps automation** with policy‑as‑code and security gates  
 - **Zero Trust architectures** in cloud environments  
 - Expanding GitOps practices into **multi‑cluster Kubernetes** deployments  
