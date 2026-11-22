@@ -26,3 +26,4 @@
 
 📫 Reach me on Telegram for collaborations.  
 ⚡ Fun fact: I started with map planning & QGIS, now I map out secure cloud infrastructures!  
+star.
